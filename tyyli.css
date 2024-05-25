@@ -74,7 +74,7 @@ h1, h2 {
     padding: 20px;
     max-width: 900px;
     border-radius: 20px;
-    border: 1px solid;
+    border: 5px double;
     border-color: #14FDCE;
     color: #14FDCE;
     box-shadow: 0 0 20px rgba(20, 253, 206, 0.5), 0 0 40px rgba(20, 253, 206, 0.3), 0 0 60px rgba(20, 253, 206, 0.2);
@@ -97,8 +97,8 @@ header {
     opacity: 70%;
     color: #14FDCE;
     padding: 1px 20px;
-    border-radius: 10px;
-    border: 1px solid #14FDCE;
+    border-radius: 20px;
+    border: 4px double #14FDCE;
     font-size: 14px;
     width: 100%;
     
@@ -121,7 +121,7 @@ header h1{
     font-family: Calibri;
     font-size: 14px;
     color: #37ffd7;
-    border: 1px solid #14FDCE;
+    border: 4px double #14FDCE;
     overflow: auto;
     border-radius: 10px;
     background: rgba(2, 10, 9, 0.4);
@@ -137,8 +137,9 @@ header h1{
     padding: 20px;
     margin: 10px;
     border-radius: 20px;
-    border: 1px solid #14FDCE;
+    border: 4px double #14FDCE;
     color: #14FDCE;
+    font-size: 14px;
     background: rgba(2, 10, 9, 0.4);
     flex: 0.5; 
 }
@@ -317,7 +318,7 @@ footer {
     color: #14FDCE;
     padding: 1px 20px;
     border-radius: 20px;
-    border: 1px solid #14FDCE;
+    border: 4px double #14FDCE;
     font-family: Calibri;
     font-size: 14px;
     width: 100%;
@@ -346,4 +347,3 @@ h3 {
     padding: 0;
     text-shadow: 0 0 20px rgba(20, 253, 206, 0.5), 0 0 40px rgba(20, 253, 206, 0.3), 0 0 60px rgba(20, 253, 206, 0.2);
 }
-
